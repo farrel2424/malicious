@@ -24,7 +24,7 @@ This project trains multiple ML models to classify URLs into four categories:
 
 ### Confusion Matrix
 
-[Include your confusion matrix image here]
+
 
 ## 🚀 Quick Start
 
@@ -121,7 +121,7 @@ MIT License
 
 ## 👤 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+(https://github.com/farrel2424)
 
 ## 🙏 Acknowledgments
 
