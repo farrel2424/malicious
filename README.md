@@ -31,7 +31,7 @@ This project trains multiple ML models to classify URLs into four categories:
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/phishing-url-detector.git
+git clone https://github.com/farrel2424/phishing-detection-analysis.git
 cd phishing-url-detector
 
 # Install dependencies
